@@ -1,0 +1,6 @@
+{
+  "name": "Bistro Wielka Wyspa - Wrocław",
+  "description": "Oficjalna strona Bistro Wielka Wyspa we Wrocławiu (ul. Olszewskiego 34, Biskupin). Domowe obiady, tradycyjne pierogi, dania dnia, catering i zamówienia na wynos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
